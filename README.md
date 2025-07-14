@@ -2,6 +2,12 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"  />
+</div>
+
+###
+
 <p align="left">Welcome to my GitHub profile!<br><br>🎓 I'm a Computer Science (Data Science) student with a strong focus on data science and data analytics, and a growing interest in AWS and web development.</p>
 
 ###
@@ -11,6 +17,14 @@
 ###
 
 <p align="left">📊 Passionate about turning data into valuable insights and building data-driven solutions.<br><br>🌱 Currently learning advanced data analytics techniques, exploring AWS cloud services, and enhancing my web development skills.<br><br>💻 Enjoy working on hands-on projects that involve data analysis, machine learning, and creating user-friendly web apps.<br><br>🤝 Open to collaborating on data science projects, analytics challenges, and web development initiatives.</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/venugopala-6b263226a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 

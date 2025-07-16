@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">📊 Passionate about turning data into valuable insights and building data-driven solutions.<br><br>🌱 Currently learning advanced data analytics techniques, exploring AWS cloud services, and enhancing my web development skills.<br><br>💻 Enjoy working on hands-on projects that involve data analysis, machine learning, and creating user-friendly web apps.<br><br>🤝 Open to collaborating on data science projects, analytics challenges, and web development initiatives.</p>
+<p align="left">📊 Passionate about turning data into valuable insights and building data-driven solutions.<br><br>🌱 Currently learning data analytics techniques, exploring AWS cloud services, and enhancing my web development skills.<br><br>💻 Enjoy working on hands-on projects that involve data analysis, machine learning, and creating user-friendly web apps.<br><br>🤝 Open to collaborating on data science projects, analytics challenges, and web development initiatives.</p>
 
 ###
 

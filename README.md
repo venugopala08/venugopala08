@@ -26,7 +26,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   
-  <a href="[https://your-portfolio-link.com](https://venug-portfolio.vercel.app/)" target="_blank">
+  <a href="https://venug-portfolio.vercel.app/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/domain.png" width="52" height="40" alt="portfolio logo"/>
   </a>
 </div>
